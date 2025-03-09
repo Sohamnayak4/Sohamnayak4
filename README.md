@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamnayak4" alt="sohamnayak4" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Web3 and Next.js**
 
 - 👨‍💻 All of my projects are available at [Sohamnayak.tech.](Sohamnayak.tech.)
 
 - 💬 Ask me about **JavaScript, React.js**
 
-- 📫 How to reach me **sohamnayak04@gmail.com**
+- 📫 How to reach me: **sohamnayak04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
