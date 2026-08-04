@@ -1,61 +1,113 @@
-<h1 align="center">Soham Nayak</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=Soham%20Nayak&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=full-stack%20developer%20%C2%B7%20indie%20hacker%20%C2%B7%20building%20in%20public&descAlignY=54&descSize=16&animation=fadeIn" />
 
 <p align="center">
-  Full-stack developer. I build products solo and ship them in public.
+  <a href="https://x.com/soham_nayak04">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=I+build+products+solo+and+ship+them+in+public.;IIT+Bombay+%E2%86%92+intern+%E2%86%92+founder+%E2%86%92+Chronicle;Currently+shipping+something+every+single+week.;Open+to+full-stack+%2F+founding+engineer+roles." alt="typing" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://sohamn.vercel.app">Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://x.com/soham_nayak04">X</a> &nbsp;•&nbsp;
-  <a href="https://youtube.com/@Tech-with-soham">YouTube</a> &nbsp;•&nbsp;
-  <a href="mailto:sohamnayak04@gmail.com">Email</a>
+  <a href="https://sohamn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://x.com/soham_nayak04"><img src="https://img.shields.io/badge/@soham__nayak04-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/@Tech-with-soham"><img src="https://img.shields.io/badge/TechWithSoham-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
+  <a href="mailto:sohamnayak04@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
----
+<br />
 
-### What I'm doing now
+## `whoami`
 
-- Building **[Postabl](https://postabl.xyz)**, a screenshot editor for people who post online. Brand kits, clean exports, no design skills needed.
-- Shipping small tools fast. Latest one: **[Xshare](https://xshare0.vercel.app)**, turns any X profile into a shareable card in one paste.
-- Writing daily on X and making videos as **TechWithSoham** about AI, tools, and what's actually worth building right now.
-- **Open to full-stack and founding engineer roles.** Remote preferred, available immediately. Email or DMs are open.
+```ts
+const soham = {
+  role:      "Full-stack developer, solo founder",
+  school:    "IIT Bombay",
+  stack:     ["TypeScript", "Next.js", "Node", "Postgres", "Supabase"],
+  shipped:   ["live messaging", "feed ranking algorithms", "payments", "auth"],
+  currently: "building products in public and posting the real numbers",
+  openTo:    "full-stack / founding engineer roles (remote preferred)",
+} as const;
+```
 
-### Background
+- Built the entire tech for my own startup solo. Live chat and a ranked feed, both from scratch, both new to me when I started.
+- Then six months on frontend at Chronicle.
+- Now: shipping my own products, writing daily on X, making videos.
+- I care about shipping fast and showing the numbers, wins or not.
 
-- IIT Bombay.
-- Two full-stack internships, then founded a startup and owned the entire tech myself, then six months on frontend at Chronicle.
-- Shipped live messaging, feed ranking, payments, and auth in production. Most of it built from scratch the first time.
-- 300+ problems on LeetCode, 1400+ on Codeforces, 1700+ on CodeChef.
+<br />
 
-### Stack
+## Currently shipping
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+| Project | What it does | Live |
+| :--- | :--- | :--- |
+| **Postabl** | Screenshot editor for people who post online. Brand kits, clean exports, zero design skill needed. | [postabl.xyz](https://postabl.xyz) |
+| **Xshare** | Paste any X profile, get four share-ready cards in one click. Built in a weekend. | [xshare0.vercel.app](https://xshare0.vercel.app) |
+| **TechWithSoham** | AI, tools, and what's actually worth building right now. No hype. | [YouTube](https://youtube.com/@Tech-with-soham) |
 
-### Stats
+> [!NOTE]
+> **Open to work.** Full-stack or founding engineer, remote preferred, available immediately.
+> Fastest way to reach me is a [DM on X](https://x.com/soham_nayak04) or [email](mailto:sohamnayak04@gmail.com).
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sohamnayak4&show_icons=true&hide_border=true&theme=github_dark&hide=issues" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamnayak4&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="top languages" />
+<br />
+
+## Stack
+
+**I build with these daily**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,tailwind,supabase,postgres&theme=dark" />
 </p>
 
-<p align="left">
-  <img height="150" src="https://streak-stats.demolab.com?user=sohamnayak4&hide_border=true&theme=github-dark" alt="streak" />
+**Comfortable with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,express,mongodb,python,docker,aws,git,figma&theme=dark" />
 </p>
 
----
+<br />
+
+## The numbers
 
 <p align="center">
-  <i>Currently: shipping something small every week and posting the numbers, good or bad.</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohamnayak4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohamnayak4&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Sohamnayak4&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohamnayak4&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sohamnayak4&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</p>
+
+<br />
+
+## Before I built products, I solved problems
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-1400%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-1700%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sohamnayak04?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0" />
+</p>
+
+<br />
+
+## My contributions, eaten by a snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohamnayak4/Sohamnayak4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohamnayak4/Sohamnayak4/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sohamnayak4/Sohamnayak4/output/github-snake.svg" />
+</picture>
+
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer&text=ship%20small%2C%20ship%20often&fontSize=20&fontColor=ffffff&fontAlignY=72" />
