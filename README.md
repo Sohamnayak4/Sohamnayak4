@@ -85,10 +85,6 @@ const soham = {
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohamnayak4&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sohamnayak4&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
 <br />
 
 ## My contributions, eaten by a snake
