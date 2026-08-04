@@ -68,12 +68,17 @@ const soham = {
 ## The numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohamnayak4&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohamnayak4&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Sohamnayak4&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+  <img width="32.5%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img width="32.5%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img width="32.5%" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+</p>
+
+<p align="center">
+  <img width="98%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
 </p>
 
 <p align="center">
@@ -82,20 +87,6 @@ const soham = {
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sohamnayak4&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
-<br />
-
-## Before I built products, I solved problems
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeforces-1400%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeChef-1700%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sohamnayak04?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0" />
 </p>
 
 <br />
